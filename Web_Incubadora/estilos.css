@@ -1,0 +1,50 @@
+.Boton_Sig{
+    padding: 5px 15px;
+    border-radius: 5px;
+    border-color: rgb(230, 96, 167);
+    background: rgb(230, 96, 167);
+    color: aliceblue;
+    cursor: pointer;
+}
+.Boton_Sig:hover{ /* hover permite cambiar de color al pasar el cursor por el botón*/
+    padding: 5px 15px;
+    border-radius: 5px;
+    border-color: aliceblue;
+    background: aliceblue;
+    color: rgb(230, 96, 167);
+    cursor: pointer;
+}
+#Boton{
+    text-align: right;
+    margin-top: 80px;
+}
+#img_pollos{
+    text-align: center;
+    margin-top: 70px;
+}
+#titulo{
+    margin-top: 50px ;    
+    text-align: center;
+    color: cornflowerblue;
+    font-weight: bold; 
+
+}
+#subtitulo{
+    margin-top: 50px ;    
+    text-align: left;
+    margin-left: 25px;
+    color: black;
+    font-weight: bold; 
+
+}
+#texto{
+    text-align: justify;
+    font-size: large;
+}
+body{
+    background: wheat;
+}
+#pie_pag{
+    color: dimgray;
+    text-align: center;
+}
