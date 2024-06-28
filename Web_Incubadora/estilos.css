@@ -22,6 +22,12 @@
     text-align: center;
     margin-top: 70px;
 }
+#imagenes{
+    text-align: center;
+}
+#img_placa{
+    width: 300px;
+}
 #titulo{
     margin-top: 50px ;    
     text-align: center;
