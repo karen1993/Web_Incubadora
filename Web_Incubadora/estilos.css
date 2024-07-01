@@ -28,6 +28,11 @@
 #img_placa{
     width: 300px;
 }
+#img_HT{
+    width: 800px;
+    margin-left: 100px;
+}
+
 #titulo{
     margin-top: 50px ;    
     text-align: center;
