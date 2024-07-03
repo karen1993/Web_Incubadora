@@ -32,13 +32,26 @@
     width: 800px;
     margin-left: 100px;
 }
-
+#img_sensor{
+    width: 200px;
+    margin-left: 500px;
+}
+#img_inicioSHT{
+    margin-left: 350px;
+}
+#texto_img{
+    margin-left: 475px;
+    font-size: small;
+}
+#lectura_sensor{
+    margin-left: 450px;
+    width: 300px;
+}
 #titulo{
     margin-top: 50px ;    
     text-align: center;
     color: cornflowerblue;
-    font-weight: bold; 
-
+    
 }
 #subtitulo{
     margin-top: 50px ;    
