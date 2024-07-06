@@ -25,6 +25,10 @@
 #imagenes{
     text-align: center;
 }
+#video{
+    width: 300px;
+    margin-left: 500px;
+}
 #img_placa{
     width: 500px;
 }
