@@ -15,10 +15,22 @@
             <h1 id="titulo">
                 Esquema Sensor de Electricidad
             </h1>
-          
+            <img src="imagenes/sensor_corriente.jpg" id="img_principal"/>
         </div>
         <div id="texto">
+            <section>
+                <h2>Descripcion de sensor de corriente</h2>
+                <p>El sensor de electricidad fue realizado apartir de un cable de cargador de 5V.
+                Colocamos un cable (rojo) en el cable positivo del cargador, y un cable (verde) en el
+                negativo. Como el mismo cable es usado posteriormente para cargar la Power Bank, se coloco
+                un diodo. Este se escarga de que la corriente valla desde el cargador a la Power Bank y 
+                no permite que valla en sentido contrario. Cabe destacar que no todas las Power Bank 
+                permiten alimentan en sentido contrario, por lo tanto en ellas no es fundamental
+                el uso del diodo. 
+                </p>
+            </section>
             <p>
+                <h2>Esquema del sensor de corriente</h2>
                 El esquema que se muestra a continuación corresponde a la conexión del sensor de electricidad utilizando
                 el pin 11 de la placa y una resistencia de 10k y PULL DOWN, debido a la captación de corrriente. Es
                 decir, cuando se corta la luz, la resistencia pasa un valor 0V, indicando que no hay electricidad. En 

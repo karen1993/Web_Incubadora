@@ -25,6 +25,10 @@
 #imagenes{
     text-align: center;
 }
+#video{
+    width: 300px;
+    margin-left: 500px;
+}
 #img_placa{
     width: 500px;
 }
@@ -32,10 +36,11 @@
     width: 800px;
     margin-left: 300px;
 }
-#img_sensor{
+#img_principal{
     width: 200px;
-    margin-left: 500px;
+    margin-left: 530px;
 }
+
 #img_inicioSHT{
     margin-left: 350px;
 }
